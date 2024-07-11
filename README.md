@@ -3,6 +3,7 @@
 ###
 
 *Researcher and Software Developer*
+<br/>
 CONNECTED-IN, South Korea
 
 ###
