@@ -19,20 +19,21 @@ CONNECTED-IN, South Korea
 
 ###
 
-* 🌍  I'm currently based in Wonju, South Korea
-* 🖥️  See my portfolio at [phorvicheka.github.io/profile](https://phorvicheka.github.io/profile/)
-* ✉️  You can contact me at [phorvicheka@yahoo.com](mailto:phorvicheka@yahoo.com)
-* 🚀  I'm currently working as a Researcher and Software Developer for [CONNECTED-IN](https://dev-home.connected-in.co.kr/) located in Wonju, South Korea
+* 🌍 I'm currently based in Wonju, South Korea
+* 🖥️ See my portfolio at [phorvicheka.github.io/profile](https://phorvicheka.github.io/profile/)
+* ✉️ You can contact me at [phorvicheka@yahoo.com](mailto:phorvicheka@yahoo.com)
+* 🚀 I'm currently working as a Researcher and Software Developer for [CONNECTED-IN](https://dev-home.connected-in.co.kr/) located in Wonju, South Korea
 * 🧑‍💻 My core competencies lie in developing robust web, mobile, and desktop applications using a modern tech stack, including:
-      - Mobile 📱: Flutter, Android (Kotlin, Jetpack Compose)
-      - Web 🌐: Next.js, React.js
-      - Backend ⚡: FastAPI, Nest.js
-      - DevOps 🐳: Docker, Docker Compose
-      - AI: Olama, Llama3, ChatGPT, Gemini, Tensorflow Hub Object Detection, BERTopic, Scikit-Learn (TFIDF), Numpy, Pandas, NetworkX, Word cloud
+  -	📱 Mobile: Flutter, Android (Kotlin, Jetpack Compose)
+  -	🌐 Web: Next.js, React.js
+  -	🎨 Design: Figma
+  -	⚡ Backend: FastAPI, Nest.js
+  -	🐳 DevOps: Docker, Docker Compose
+  -	🧠 AI: LLM (Olama, Llama3, ChatGPT, Gemini), BERTopic, Tensorflow Hub Object Detection
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages & Tools</h3>
 
 ###
 
@@ -70,7 +71,7 @@ CONNECTED-IN, South Korea
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=phorvicheka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=phorvicheka&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
