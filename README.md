@@ -20,15 +20,15 @@ CONNECTED-IN, South Korea
 
 ###
 
-* 🌍 I'm currently based in Wonju, South Korea
+* 🌍 I'm currently working as a Researcher and Software Developer for [CONNECTED-IN](https://dev-home.connected-in.co.kr/) located in Wonju, South Korea
 * 🖥️ See my portfolio at [phorvicheka.github.io/profile](https://phorvicheka.github.io/profile/)
 * ✉️ You can contact me at [phorvicheka@yahoo.com](mailto:phorvicheka@yahoo.com)
-* 🚀 I'm currently working as a Researcher and Software Developer for [CONNECTED-IN](https://dev-home.connected-in.co.kr/) located in Wonju, South Korea
 * 🧑‍💻 My core competencies lie in developing robust web, mobile, and desktop applications using a modern tech stack, including:
   -	📱 Mobile: Flutter, Android (Kotlin, Jetpack Compose)
   -	🌐 Web: Next.js, React.js
   -	🎨 Design: Figma
-  -	⚡ Backend: FastAPI, Nest.js
+  -	⚡ Backend: FastAPI, Express.js, Nest.js, PostgreSQL, MySQL
+  -	🔧 Collaboration: Git, GitHub, Bitbucket, Jira, GitLab
   -	🐳 DevOps: Docker, Docker Compose
   -	🧠 AI: LLM (Olama, Llama3, ChatGPT, Gemini), BERTopic, Tensorflow Hub Object Detection
 
