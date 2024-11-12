@@ -27,7 +27,7 @@ CONNECTED-IN, South Korea
   -	📱 Mobile: Flutter, Android (Kotlin, Jetpack Compose)
   -	🌐 Web: Next.js, React.js
   -	🎨 Design: Figma
-  -	⚡ Backend: FastAPI, Express.js, Nest.js, PostgreSQL, MySQL
+  -	⚡ Backend: FastAPI, Express.js, Nest.js, PostgreSQL, MySQL, Supabase
   -	🔧 Collaboration: Git, GitHub, Bitbucket, Jira, GitLab
   -	🐳 DevOps: Docker, Docker Compose
   -	🧠 AI: LLM (Olama, Llama3, ChatGPT, Gemini), BERTopic, Tensorflow Hub Object Detection
