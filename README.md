@@ -31,6 +31,7 @@ CONNECTED-IN, South Korea
   -	🔧 Collaboration: Git, GitHub, Bitbucket, Jira, GitLab
   -	🐳 DevOps: Docker, Docker Compose
   -	🧠 AI: LLM (Olama, Llama3, ChatGPT, Gemini), BERTopic, Tensorflow Hub Object Detection
+  - 🤖 AI-Assisted Dev: Claude Code (MCP: context7, github, figma, super-claude; Skills; Sub-agents)
 
 ###
 
