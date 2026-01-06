@@ -73,7 +73,15 @@ CONNECTED-IN, South Korea
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=phorvicheka&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!-- 
+    Switched to self-hosted Vercel deployment due to GitHub Camo 504 / ORB issues
+    Ref: https://github.com/DenverCoder1/github-readme-streak-stats/issues/860
+  -->
+  <img
+    src="https://github-readme-streak-stats-vijaypur.vercel.app?user=phorvicheka&border_radius=5"
+    height="220"
+    alt="streak graph"
+  />
 </div>
 
 ###
