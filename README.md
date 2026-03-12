@@ -21,7 +21,7 @@ CONNECTED-IN, South Korea
 ###
 
 * 🌍 I'm currently working as a Researcher and Software Developer for [CONNECTED-IN](https://dev-home.connected-in.co.kr/) located in Wonju, South Korea
-* 🖥️ See my portfolio at [phorvicheka.github.io/profile](https://phorvicheka.github.io/profile-public/)
+* 🖥️ See my portfolio at [phorvicheka.github.io/profile-public](https://phorvicheka.github.io/profile-public/)
 * ✉️ You can contact me at [phorvicheka@yahoo.com](mailto:phorvicheka@yahoo.com)
 * 🧑‍💻 My core competencies lie in developing robust web, mobile, and desktop applications using a modern tech stack, including:
   -	📱 Mobile: Flutter, Android (Kotlin, Jetpack Compose)
